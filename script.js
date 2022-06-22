@@ -7,3 +7,5 @@ p1.textContent = "The purpose of this Mock Site is to provide coding practice fo
 document.querySelector("body").appendChild(p1);
 
 p1.style.textAlign = "center";
+
+p1.textContent = "The purpose of this Mock Site is to provide coding practice for our CREATOR, the benevolent Sam Conlon.  Praise Him!  For He is our salvation and the sweetest nectar of the Universe.";
