@@ -20,3 +20,5 @@ p3.textContent = "AMEN.";
 document.querySelector("body").appendChild(p3);
 p3.style.textAlign = "center";
 
+p2.style.fontSize = "25px";
+p3.style.fontSize = "30px";
